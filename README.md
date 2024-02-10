@@ -10,7 +10,7 @@ mv Extract-text-using-screenshot-in-linux/Text_Extractor.sh ~/
 ### For Fedora based distribution
 
 ```
-sudo dnf install gnome-screenshot.sh
+sudo dnf install gnome-screenshot
 sudo dnf install xclip
 sudo dnf install tesseract-ocr
 sudo dnf install tesseract-ocr-eng
